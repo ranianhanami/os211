@@ -1,4 +1,8 @@
 # Log format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00  10 L00 General Log
+ZCZC W00   10 L00 General Log
+ZCZC W00    5 L23 Discord: register
+ZCZC W00   15 L01 SCELE related : check announcements & read forum discussions 
+ZCZC W00    5 L05 GSGS related : how to create github pages
+ZCZC W00    5 L04 GitHub Pages: setting
