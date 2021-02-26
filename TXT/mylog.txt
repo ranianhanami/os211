@@ -7,5 +7,5 @@ ZCZC W00   15 L01 SCELE related : check announcements & read forum discussions
 ZCZC W00    5 L05 GSGS related : how to create github pages
 ZCZC W00    5 L04 GitHub Pages: setting
 ZCZC W00   20 L21 VirtualBox: install VirtualBox, download Debian, create Debian Guest on VirtualBox
-ZCZC W00   30 L06 Reading References/Books/Documents : read Pengantar Sistem Operasi Komputer - Jilid Pertama (I.1)
+ZCZC W00   50 L06 Reading References/Books/Documents : read Pengantar Sistem Operasi Komputer - Jilid Pertama (I.1)
 ZCZC W00   50 L24 Udacity: study 
