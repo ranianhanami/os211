@@ -14,7 +14,7 @@ ZCZC W01   15 L06 Reading References/Books/Documents : read Pengantar Sistem Ope
 ZCZC W01   15 L09 AsDos: asking, etc.
 ZCZC W01  180 L11 Assignment #1
 ZCZC W01   63 L12 Assignment #2
-ZCZC W01   20 L13 Assignment #3
+ZCZC W01   26 L13 Assignment #3
 ZCZC W01   32 L14 Assignment #4
 ZCZC W01   28 L15 Assignment #5
 ZCZC W01    2 L16 Assignment #6
