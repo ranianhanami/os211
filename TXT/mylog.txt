@@ -10,6 +10,7 @@ ZCZC W00   20 L21 VirtualBox: install VirtualBox, download Debian, create Debian
 ZCZC W00   50 L06 Reading References/Books/Documents : read Pengantar Sistem Operasi Komputer - Jilid Pertama (I.1)
 ZCZC W00   50 L24 Udacity: study
 ZCZC W00   45 L05 GSGS related
+ZCZC W01  100 L02 Synchronous Class
 ZCZC W01   15 L06 Reading References/Books/Documents : read Pengantar Sistem Operasi Komputer - Jilid Pertama (I.2)
 ZCZC W01   15 L09 AsDos: asking, etc.
 ZCZC W01  180 L11 Assignment #1
