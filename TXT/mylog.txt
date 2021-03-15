@@ -22,7 +22,7 @@ ZCZC W01  2 L16 Assignment #6
 ZCZC W01 45 L17 Assignment #7
 ZCZC W01 25 L18 Assignment #8
 ZCZC W02 100 L02 Synchronus Class
-ZCZC W02 92 L05 GSGS related
+ZCZC W02 109 L05 GSGS related
 ZCZC W02 5 L09 AsDos: asking
 ZCZC W02 95 L11 Assignment #1
 ZCZC W02 52 L12 Assignment #2
