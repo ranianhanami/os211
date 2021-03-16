@@ -35,4 +35,4 @@ ZCZC W02 10 L18 Assignment #8
 ZCZC W02 14 L19 Assignment #9
 ZCZC W02 10 L20 Assignment #10
 ZCZC W02 64 L22 Youtube : watch Cryptography For Beginners, Defense in Depth
-ZCZC W02 65 L25 C-Language : study
+ZCZC W02 90 L25 C-Language : study
