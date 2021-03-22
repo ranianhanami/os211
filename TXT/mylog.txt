@@ -39,12 +39,12 @@ ZCZC W02 90 L25 C-Language : study
 ZCZC W03 100 L02 Synchronus Class
 ZCZC W03 150 L05 GSGS related
 ZCZC W03 137 L11 Assignment #1
-ZCZC W03 14 L12 Assignment #2
+ZCZC W03 66 L12 Assignment #2
 ZCZC W03 8 L13 Assignment #3
 ZCZC W03 50 L14 Assignment #4
 ZCZC W03 98 L15 Assignment #5
-ZCZC W03 7 L16 Assignment #6
+ZCZC W03 8 L16 Assignment #6
 ZCZC W03 15 L17 Assignment #7
 ZCZC W03 5 L18 Assignment #8
-ZCZC W03 4 L19 Assignment #9
+ZCZC W03 5 L19 Assignment #9
 
