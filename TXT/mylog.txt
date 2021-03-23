@@ -37,7 +37,7 @@ ZCZC W02 10 L20 Assignment #10
 ZCZC W02 64 L22 Youtube : watch Cryptography For Beginners, Defense in Depth
 ZCZC W02 90 L25 C-Language : study
 ZCZC W03 100 L02 Synchronus Class
-ZCZC W03 150 L05 GSGS related
+ZCZC W03 180 L05 GSGS related
 ZCZC W03 137 L11 Assignment #1
 ZCZC W03 66 L12 Assignment #2
 ZCZC W03 8 L13 Assignment #3
