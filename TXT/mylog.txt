@@ -49,3 +49,15 @@ ZCZC W03 5 L18 Assignment #8
 ZCZC W03 5 L19 Assignment #9
 ZCZC W03 17 L22 Youtube : study
 ZCZC W03 18 L25 C-languafe : study (files input/output)
+ZCZC W04 10 L01 Scele related : read forum discussion
+ZCZC W04 100 L02 Zoom related : synchronous class
+ZCZC W04 68 L05 GSGS related
+ZCZC W04 88 L11 Assignment #1
+ZCZC W04 38 L12 Assignment #2
+ZCZC W04 50 L13 Assignment #3
+ZCZC W04 62 L14 Assignment #4
+ZCZC W04 10 L15 Assignment #5
+ZCZC W04 31 L16 Assignment #6
+ZCZC W04 3 L17 Assignment #7
+ZCZC W04 2 L18 Assignment #8
+
