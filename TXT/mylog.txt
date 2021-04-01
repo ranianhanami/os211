@@ -62,10 +62,9 @@ ZCZC W04 3 L17 Assignment #7
 ZCZC W04 2 L18 Assignment #8
 ZCZC W04 91 L22 Youtube : watch Mr.Anwar recording class
 ZCZC W05 100 L02 Zoom related : synchronous class
+ZCZC W05 57 L08 TOP Tutorial, Demo Week05, Lowering RAM
 ZCZC W05 52 L12 Assignment #2
 ZCZC W05 15 L14 Assignment #4
-ZCZC W05 5 L15 Assignment #5
-ZCZC W05 1 L16 Assignemnt #6
-ZCZC W05 10 L17 TOP tutorial
-
+ZCZC W05 7 L15 Assignment #5
+ZCZC W05 2 L16 Assignemnt #6
 
