@@ -62,12 +62,13 @@ ZCZC W04 3 L17 Assignment #7
 ZCZC W04 2 L18 Assignment #8
 ZCZC W04 91 L22 Youtube : watch Mr.Anwar recording class
 ZCZC W05 100 L02 Zoom related : synchronous class
-ZCZC W05 48 L05 GSGS related
-ZCZC W05 57 L08 TOP Tutorial, Demo Week05, Lowering RAM
+ZCZC W05 72 L05 GSGS related
+ZCZC W05 26 Read Pengatar Sistem Operasi Komputer jidil 2
+ZCZC W05 57 L10 TOP Tutorial, Demo Week05, Lowering RAM
 ZCZC W05 119 L11 Assignment #1
 ZCZC W05 52 L12 Assignment #2
 ZCZC W03 47 L13 Assignment #3
 ZCZC W05 15 L14 Assignment #4
-ZCZC W05 11 L15 Assignment #5
-ZCZC W05 3 L16 Assignemnt #6
-
+ZCZC W05 15 L15 Assignment #5
+ZCZC W05 5 L16 Assignemnt #6
+ZCZC W05 32 L22 Youtube : study
