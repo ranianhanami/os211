@@ -90,4 +90,12 @@ ZCZC W07 52 L13 Assignment #3
 ZCZC W07 45 L14 Assignment #4
 ZCZC W07 9 L15 Assignment #5
 ZCZC W07 3 L16 Assignment #6
+ZCZC W08 100 L02 Zoom related : synchronous class
+ZCZC W08 30 L05 GSGS related
+ZCZC W08 38 L11 Assignment #1
+ZCZC W08 50 L12 Assigment #2
+ZCZC W08 300 L13 Assignment #3
+ZCZC W08 25 L14 Assignment #4
+ZCZC W08 9 L15 Assignment #5
+ZCZC W08 1 L16 Assignment #6
 
